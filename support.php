@@ -195,8 +195,8 @@
 				<div class="row centered">
 					<div class="col-lg-6 col-lg-offset-3">
 						<p>
-							EasyPHP 2000 - 2016<br />
-							Contact us : <a href="mailto:easyphpdotorg@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a>
+							EasyPHP 2000 - 2016 | Contact us : <a href="mailto:easyphpdotorg@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a><br />
+							A bug, typo, comment... about this website : <a href="https://github.com/easyphp/easyphp-website/issues" target="_blank"><i class="fa fa-bug"></i></a>
 						</p>
 					</div>
 				</div>
